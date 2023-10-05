@@ -25,5 +25,14 @@
       ],
       "key": "1"
     }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
   ]
 }

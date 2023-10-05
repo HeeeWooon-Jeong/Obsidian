@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트3/정보.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8bf12ed3d02fca49",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트3/정보.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트3/정보.md",
+                "file": "옵시디언 사용법/깃 연동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트3/정보.md"
+                "file": "옵시디언 사용법/깃 연동.md"
               }
             }
           }
@@ -149,51 +148,52 @@
   },
   "active": "2e50d171c49d1814",
   "lastOpenFiles": [
-    "파일 정리/Pasted image 20231004134413.png",
+    "프로젝트3/URI/URI 설명.md",
+    "프로젝트3/플라스크 API ai모델 만들기.md",
+    "프로젝트3/URI",
+    "엔드포인트.md",
+    "프로젝트3/용어 정리/용어정리.md",
+    "프로젝트3/용어 정리/상세/프로토콜.md",
+    "프로젝트3/용어 정리/상세/추적매개변수.md",
+    "프로젝트3/용어 정리/상세/도메인.md",
+    "파일 정리/Pasted image 20231004091913.png",
+    "데일리/23_10/2023-10-01.md",
+    "Machine Learning/Deep Learning/2023-10-05 딥러닝.md",
+    "데일리/23_10",
+    "Machine Learning/Deep Learning/Pasted image 20231005143618.png",
+    "Machine Learning/Deep Learning/Pasted image 20231005143526.png",
+    "Machine Learning/Deep Learning/Pasted image 20231005142910.png",
+    "Machine Learning/Deep Learning/23-10-04 딥러닝.md",
+    "데일리/23_10/2023-10-04.md",
+    "데일리/23_10/2023-10-05.md",
+    "무제 파일.md",
+    "무제 파일.canvas",
+    "무제 파일 1.md",
+    "플라스크/플라스크.md",
+    "플라스크/Pasted image 20231005141005.png",
+    "플라스크/Pasted image 20231005140802.png",
+    "용어 정리(암기!!)/FLASK/FLASK.md",
+    "프로젝트3/방법.md",
+    "용어 정리(암기!!)/FLASK",
+    "플라스크",
+    "옵시디언 사용법/깃 연동.md",
+    "깃.md",
     "프로젝트3/정보.md",
+    "파일 정리/Pasted image 20231004134413.png",
     "파일 정리/Pasted image 20231004164453.png",
     "파일 정리/Pasted image 20231004164432.png",
-    "프로젝트3/방법.md",
-    "프로젝트3/용어 정리/용어정리.md",
     "Machine Learning/딥러닝 수업자료/수업자료 링크.md",
     "프로젝트3/url 구조/구조.md",
     "프로젝트3/구현 기능.md",
     "파일 정리/Pasted image 20231004155735.png",
-    "파일 정리/Pasted image 20231004155539.png",
-    "파일 정리/Pasted image 20231004155529.png",
-    "파일 정리/Pasted image 20231004155246.png",
-    "파일 정리/Pasted image 20231004155153.png",
     "프로젝트3/용어 정리/상세/하위도메인.md",
     "프로젝트3/용어 정리/상세/호스팅.md",
     "프로젝트3/용어 정리/상세/호스트.md",
-    "프로젝트3/용어 정리/상세/프로토콜.md",
-    "프로젝트3/용어 정리/상세/추적매개변수.md",
-    "프로젝트3/용어 정리/상세/도메인.md",
     "프로젝트3/용어 정리/상세",
     "프로젝트3/용어 정리",
-    "숙제.md",
     "프로젝트3/url 구조",
     "프로젝트3",
-    "파일 정리/Pasted image 20231004141316.png",
-    "파일 정리/Pasted image 20231004091913.png",
     "파일 정리",
-    "무제 파일.md",
-    "용어 정리(암기!!)/JAVA/태그라이브러리.md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Gradient Descen(경사하강법)/이론.md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Gradient Descen(경사하강법)/경사 하강법 (Gradient Descent).md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Gradient Descen(경사하강법)/미니 배치 경사 하강법 (Mini-Batch Gradient Descent).md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Gradient Descen(경사하강법)/확률적 경사 하강법 (Stochastic Gradient Descent, SGD).md",
-    "Machine Learning/Deep Learning/23-10-04 딥러닝.md",
-    "Machine Learning/상세 설명/소프트맥스.md",
-    "Machine Learning/상세 설명/다중분류.md",
-    "Machine Learning/상세 설명/이진분류.md",
-    "Machine Learning/상세 설명",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/coef_.md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Multiple Linear Regression(다중 선형 회귀)/다중 선형 회귀.md",
-    "3. 딥러닝 수업 자료 (활성화 함수, 오차 역전파, 경사하강법) 1.pptx",
-    "1. 딥러닝 수업 자료 (딥러닝 개요) 1.pptx",
-    "2. 딥러닝 수업 자료 (퍼셉트론, 다층 퍼셉트론) 1.pptx",
-    "~$1. 딥러닝 수업 자료 (딥러닝 개요).pptx",
-    "무제 파일.canvas"
+    "Machine Learning/상세 설명"
   ]
 }
