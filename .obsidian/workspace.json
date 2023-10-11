@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "프로젝트3/플라스크.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "프로젝트3/플라스크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "서브라임 텍스트/랩실.md",
+                "file": "프로젝트3/플라스크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "서브라임 텍스트/랩실.md"
+                "file": "프로젝트3/플라스크.md"
               }
             }
           }
@@ -148,25 +148,41 @@
   },
   "active": "2e50d171c49d1814",
   "lastOpenFiles": [
-    "숙제.md",
+    "프로젝트3/2023-10-11.md",
+    "데일리/무제 폴더/Pasted image 20231011123057.png",
+    "데일리/23_10/2023-10-11 딥러닝 수업.md",
+    "데일리/무제 폴더/Pasted image 20231011122828.png",
+    "데일리/무제 폴더/Pasted image 20231011122702.png",
+    "데일리/무제 폴더/Pasted image 20231011122652.png",
+    "데일리/무제 폴더/Pasted image 20231011122635.png",
+    "데일리/무제 폴더/Pasted image 20231011122619.png",
+    "데일리/무제 폴더/Pasted image 20231011122331.png",
+    "데일리/무제 폴더/Pasted image 20231011122313.png",
+    "데일리/무제 폴더/Pasted image 20231011122204.png",
+    "데일리/무제 폴더/Pasted image 20231011122121.png",
+    "데일리/23_10/2023-10-05.md",
+    "데일리/23_10/2023-10-10 딥러닝 수업.md",
+    "프로젝트3/플라스크 API ai모델 만들기.md",
+    "프로젝트3/플라스크.md",
+    "프로젝트3/구현 기능.md",
+    "프로젝트3/AWS 와 FLASK.md",
+    "프로젝트3/물어보기.md",
+    "프로젝트3/정보.md",
+    "프로젝트3/빅데이터 분석 정의서.md",
+    "프로젝트3/참고.md",
+    "데일리/무제 폴더",
+    "옵시디언 사용법/깃 연동.md",
     "서브라임 텍스트/랩실.md",
+    "숙제.md",
     "랩실",
     "플라스크/플라스크.md",
     "Machine Learning/Deep Learning/23-10-04 딥러닝.md",
     "Machine Learning/Sigmoid.md",
-    "프로젝트3/참고.md",
-    "프로젝트3/플라스크 API ai모델 만들기.md",
     "PYTHON/Python/PyCharm/무제 파일.md",
-    "PYTHON/Python/PyCharm/Pasted image 20231006164753.png",
-    "PYTHON/Python/PyTorch/Pasted image 20231006164643.png",
     "PYTHON/Python/PyTorch/다운로드.md",
     "PYTHON/Python/PyCharm&PyTorch.md",
     "PYTHON/Python/PyTorch",
     "PYTHON/Python/PyCharm",
-    "프로젝트3/AWS 와 FLASK.md",
-    "프로젝트3/정보.md",
-    "프로젝트3/빅데이터 분석 정의서.md",
-    "프로젝트3/구현 기능.md",
     "PYTHON/Python",
     "PYTHON",
     "용어 정리(암기!!)/Spring/스프링 시큐리티.md",
@@ -175,25 +191,8 @@
     "AWS/무제 폴더",
     "AWS",
     "프로젝트3/용어 정리/용어정리.md",
-    "프로젝트3/용어 정리/상세/도메인.md",
-    "프로젝트3/용어 정리/상세/추적매개변수.md",
-    "프로젝트3/용어 정리/상세/캐싱테이블2.md",
-    "프로젝트3/용어 정리/상세/프로토콜.md",
-    "프로젝트3/용어 정리/상세/하위도메인.md",
-    "프로젝트3/용어 정리/상세/호스트.md",
-    "프로젝트3/용어 정리/상세/호스팅.md",
-    "프로젝트3/물어보기.md",
     "프로젝트3/URI",
-    "파일 정리/Pasted image 20231004091913.png",
     "데일리/23_10",
-    "Machine Learning/Deep Learning/Pasted image 20231005143618.png",
-    "Machine Learning/Deep Learning/Pasted image 20231005143526.png",
-    "Machine Learning/Deep Learning/Pasted image 20231005142910.png",
-    "무제 파일.canvas",
-    "플라스크/Pasted image 20231005141005.png",
-    "플라스크/Pasted image 20231005140802.png",
-    "용어 정리(암기!!)/FLASK",
-    "파일 정리/Pasted image 20231004134413.png",
-    "파일 정리/Pasted image 20231004164453.png"
+    "무제 파일.canvas"
   ]
 }
