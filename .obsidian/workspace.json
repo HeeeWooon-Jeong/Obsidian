@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트3/플라스크.md",
-                "mode": "source",
+                "file": "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트3/플라스크.md",
+                "file": "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트3/플라스크.md",
+                "file": "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트3/플라스크.md"
+                "file": "프로젝트3/2023-10-11 오라클 DB 연동 성공.md"
               }
             }
           }
@@ -148,7 +148,22 @@
   },
   "active": "2e50d171c49d1814",
   "lastOpenFiles": [
-    "프로젝트3/2023-10-11.md",
+    "프로젝트3/플라스크.md",
+    "프로젝트3/플라스크 API ai모델 만들기.md",
+    "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
+    "데일리/무제 폴더/Pasted image 20231011173047.png",
+    "프로젝트3/url 구조/구조.md",
+    "프로젝트3/구현 기능.md",
+    "프로젝트3/AWS 와 FLASK.md",
+    "프로젝트3/정보.md",
+    "프로젝트3/참고.md",
+    "프로젝트3/URI/URI 설명.md",
+    "프로젝트3/AI 모델/전처리/삭제할 데이터.md",
+    "데일리/무제 폴더/Pasted image 20231011172407.png",
+    "프로젝트3/용어 정리/용어정리.md",
+    "데일리/무제 폴더/Pasted image 20231011162902.png",
+    "프로젝트3/AI 모델/전처리",
+    "프로젝트3/AI 모델",
     "데일리/무제 폴더/Pasted image 20231011123057.png",
     "데일리/23_10/2023-10-11 딥러닝 수업.md",
     "데일리/무제 폴더/Pasted image 20231011122828.png",
@@ -157,19 +172,10 @@
     "데일리/무제 폴더/Pasted image 20231011122635.png",
     "데일리/무제 폴더/Pasted image 20231011122619.png",
     "데일리/무제 폴더/Pasted image 20231011122331.png",
-    "데일리/무제 폴더/Pasted image 20231011122313.png",
-    "데일리/무제 폴더/Pasted image 20231011122204.png",
-    "데일리/무제 폴더/Pasted image 20231011122121.png",
     "데일리/23_10/2023-10-05.md",
     "데일리/23_10/2023-10-10 딥러닝 수업.md",
-    "프로젝트3/플라스크 API ai모델 만들기.md",
-    "프로젝트3/플라스크.md",
-    "프로젝트3/구현 기능.md",
-    "프로젝트3/AWS 와 FLASK.md",
     "프로젝트3/물어보기.md",
-    "프로젝트3/정보.md",
     "프로젝트3/빅데이터 분석 정의서.md",
-    "프로젝트3/참고.md",
     "데일리/무제 폴더",
     "옵시디언 사용법/깃 연동.md",
     "서브라임 텍스트/랩실.md",
@@ -185,14 +191,8 @@
     "PYTHON/Python/PyCharm",
     "PYTHON/Python",
     "PYTHON",
-    "용어 정리(암기!!)/Spring/스프링 시큐리티.md",
-    "AWS/Nginx.md",
-    "용어 정리(암기!!)/formform태그.md",
     "AWS/무제 폴더",
     "AWS",
-    "프로젝트3/용어 정리/용어정리.md",
-    "프로젝트3/URI",
-    "데일리/23_10",
     "무제 파일.canvas"
   ]
 }
