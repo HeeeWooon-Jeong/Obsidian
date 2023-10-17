@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트3/오라클 DB.md",
+                "file": "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트3/오라클 DB.md",
+                "file": "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트3/오라클 DB.md",
+                "file": "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트3/오라클 DB.md"
+                "file": "프로젝트3/2023-10-17 (json형태로 응답 성공).md"
               }
             }
           }
@@ -148,36 +148,36 @@
   },
   "active": "2e50d171c49d1814",
   "lastOpenFiles": [
-    "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
     "플라스크/플라스크.md",
-    "프로젝트3/참고.md",
+    "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
+    "프로젝트3/DB/오라클.md",
+    "프로젝트3/오라클 DB.md",
     "프로젝트3/정보.md",
-    "플라스크/플라스크 API ai모델 만들기.md",
-    "플라스크/플라스크 1.md",
-    "프로젝트3/2023-10-13.md",
-    "프로젝트3/pickle.md",
-    "프로젝트3/AI 모델/모델 소스코드 분석.md",
+    "프로젝트3/빅데이터 분석 정의서.md",
     "프로젝트3/구현 기능.md",
     "프로젝트3/물어보기.md",
-    "프로젝트3/빅데이터 분석 정의서.md",
-    "프로젝트3/오라클 DB.md",
+    "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
+    "프로젝트3/2023-10-13.md",
     "프로젝트3/2023-10-16 insert select.md",
+    "프로젝트3/오류/오류 정리.md",
+    "프로젝트3/AI 모델/ML모델/모델의 구성.md",
+    "프로젝트3/AI 모델/모델 소스코드 분석.md",
+    "프로젝트3/참고.md",
+    "플라스크/플라스크 1.md",
+    "프로젝트3/pickle.md",
+    "프로젝트3/용어 정리/상세/바인딩변수.md",
+    "프로젝트3/용어 정리/용어정리.md",
+    "프로젝트3/AI 모델/ML모델/LSTM 과 GRU.md",
+    "플라스크/플라스크 API ai모델 만들기.md",
     "플라스크/Pasted image 20231005140802.png",
     "플라스크/Pasted image 20231005141005.png",
-    "프로젝트3/무제 폴더/오류 정리.md",
-    "프로젝트3/무제 폴더",
+    "프로젝트3/오류",
     "플라스크/AWS 와 FLASK.md",
     "데일리/23_10/무제 파일.md",
-    "프로젝트3/AI 모델/ML모델/LSTM 과 GRU.md",
-    "프로젝트3/AI 모델/ML모델/모델의 구성.md",
     "프로젝트3/AI 모델/데이터 전처리/tokenizer.md",
     "프로젝트3/AI 모델/데이터 전처리/데이터 정리.md",
-    "프로젝트3/용어 정리/용어정리.md",
     "프로젝트3/2023-10-13 1.md",
-    "프로젝트3/AI 모델/ML모델/RNN 모델.md",
     "프로젝트3/AI 모델/ML모델",
-    "Machine Learning/Supervised Learning(지도학습)/레이블 인코딩.md",
-    "Machine Learning/Supervised Learning(지도학습)/Regression/Multiple Linear Regression(다중 선형 회귀)/Multicollinearity(다중공선성).md",
     "무제 파일.canvas",
     "프로젝트3/DB",
     "데일리/무제 폴더/Pasted image 20231011173047.png",
