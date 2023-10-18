@@ -17,3 +17,7 @@ UPDATE T_URL SET
    LEAD_CNT = LEAD_CNT+1  
 WHERE URL_SEQ = 1;
 ```
+
+---
+
+최대 url 바이트 = 2175
