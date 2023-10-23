@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f540797a22aaaf9",
+        "id": "a00ab47cbb112ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "852529036675236e",
+            "id": "fd2b17dbaca2669f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
-                "mode": "source",
+                "file": "용어 정리(암기!!)/무제 파일.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "8bf12ed3d02fca49",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
+                "file": "용어 정리(암기!!)/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
+                "file": "용어 정리(암기!!)/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md"
+                "file": "용어 정리(암기!!)/무제 파일.md"
               }
             }
           }
@@ -147,37 +146,37 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "852529036675236e",
+  "active": "fd2b17dbaca2669f",
   "lastOpenFiles": [
+    "프로젝트3/AI 모델/데이터 전처리/데이터 정리.md",
+    "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
+    "프로젝트3/AI 모델/ML모델/모델의 중요 특성.md",
+    "프로젝트3/AI 모델/ML모델/모델의 도입.md",
+    "프로젝트3/AI 모델/ML모델/모델 선정.md",
+    "프로젝트3/url 구조/구조.md",
+    "프로젝트3/AI 모델/데이터 전처리/데이터 처리 내역.md",
+    "프로젝트3/url 구조/222222222222222.md",
+    "Machine Learning/용어 정리/EDA.md",
+    "프로젝트3/AI 모델/모델 소스코드 분석.md",
+    "프로젝트3/2023-10-23.md",
     "프로젝트3/2023-10-21 플라스크 수정코드_torch모델 스켈레톤.md",
+    "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
+    "프로젝트3/2023-10-18 오라클 멘토링.md",
+    "프로젝트3/2023-10-19 모델 참고문헌_.md",
     "프로젝트3/2023-10-20 모델선정_ 논문 조사.md",
     "프로젝트3/물어보기.md",
     "프로젝트3/빅데이터 분석 정의서.md",
     "프로젝트3/구현 기능.md",
-    "프로젝트3/AI 모델/ML모델/모델의 도입.md",
-    "프로젝트3/2023-10-18 오라클 멘토링.md",
-    "프로젝트3/2023-10-19 모델 참고문헌_.md",
-    "프로젝트3/url 구조/222222222222222.md",
     "2023-10-21.md",
-    "프로젝트3/AI 모델/데이터 전처리/데이터 정리.md",
     "용어 정리(암기!!)/ML/무제 파일.md",
     "용어 정리(암기!!)/Window/PE(Portable Executable).md",
     "용어 정리(암기!!)/Window",
-    "프로젝트3/AI 모델/모델 소스코드 분석.md",
     "프로젝트3/2023-10-11 오라클 DB 연동 성공.md",
     "프로젝트3/pickle.md",
     "프로젝트3/정보.md",
-    "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
-    "프로젝트3/AI 모델/ML모델/모델의 중요 특성.md",
-    "프로젝트3/AI 모델/ML모델/모델 선정.md",
     "프로젝트3/AI 모델/ML모델/RNN 모델.md",
-    "프로젝트3/AI 모델/무제 파일.md",
-    "프로젝트3/AI 모델/ML모델/LSTM 과 GRU.md",
     "무제 파일 2.canvas",
-    "Machine Learning/용어 정리/스켈레톤.md",
-    "Machine Learning/모델/무제 파일.md",
     "Machine Learning/용어 정리",
-    "JAVA/JPA.md",
     "무제 파일 1.canvas",
     "Machine Learning/신경망 아키텍쳐",
     "Machine Learning/모델",
