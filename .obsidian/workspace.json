@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트3/2023-10-23 torch_bert 모델.md",
+                "file": "프로젝트3/url 구조/구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "8bf12ed3d02fca49",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트3/2023-10-23 torch_bert 모델.md",
+                "file": "프로젝트3/url 구조/구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트3/2023-10-23 torch_bert 모델.md",
+                "file": "프로젝트3/url 구조/구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트3/2023-10-23 torch_bert 모델.md"
+                "file": "프로젝트3/url 구조/구조.md"
               }
             }
           }
@@ -149,13 +148,14 @@
   },
   "active": "fd2b17dbaca2669f",
   "lastOpenFiles": [
-    "프로젝트3/AI 모델/ML모델/LSTM 과 GRU.md",
-    "프로젝트3/AI 모델/ML모델/모델 선정.md",
     "프로젝트3/AI 모델/ML모델/모델의 도입.md",
+    "프로젝트3/AI 모델/ML모델/모델 선정.md",
     "프로젝트3/AI 모델/ML모델/모델의 중요 특성.md",
-    "프로젝트3/2023-10-21 플라스크 수정코드_torch모델 스켈레톤.md",
-    "프로젝트3/2023-10-23 torch_bert 모델.md",
+    "프로젝트3/2023-10-25 GRU bert-base-uncased.md",
     "프로젝트3/2023-10-24 플라스크  https 제거.md",
+    "프로젝트3/2023-10-23 torch_bert 모델.md",
+    "프로젝트3/AI 모델/ML모델/LSTM 과 GRU.md",
+    "프로젝트3/2023-10-21 플라스크 수정코드_torch모델 스켈레톤.md",
     "프로젝트3/url 구조/구조.md",
     "Machine Learning/Supervised Learning(지도학습)/Regression/Linear Regression(선형회귀)/01_공부 시간에 따른 시험 점수 예제.md",
     "프로젝트3/AI 모델/ML모델/모델의 코드 구성.md",
@@ -174,7 +174,6 @@
     "Machine Learning/용어 정리/EDA.md",
     "프로젝트3/AI 모델/모델 소스코드 분석.md",
     "프로젝트3/2023-10-17 (json형태로 응답 성공).md",
-    "프로젝트3/빅데이터 분석 정의서.md",
     "용어 정리(암기!!)/Window",
     "무제 파일 2.canvas",
     "Machine Learning/용어 정리",
